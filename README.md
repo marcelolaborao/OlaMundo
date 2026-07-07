@@ -3,4 +3,7 @@ Primeiro repositório do curso de Git e GitHub
 
 Repositório criado durante uma aula ao vivo!
 
-Criado no GitHub
+Teste de sincronização
+
+Criado por editor notepad++
+
